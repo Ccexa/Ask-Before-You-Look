@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "1009065,x=14336,y=12288",
+    "filename": "1009065,x=14336,y=12288.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows irregular, crowded glands with papillary/cribriform folds, stratified columnar cells exhibiting enlarged hyperchromatic nuclei, occasional lumenal debris, and fibrous stroma between glands; it is marked to emphasize the complex architecture and cytologic atypia compared with surrounding areas."
+  },
+  {
+    "id": "1009060-3,x=20480,y=20480",
+    "filename": "1009060-3,x=20480,y=20480.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains irregular, angulated gland-like structures and epithelial clusters within desmoplastic stroma, with crowded hyperchromatic nuclei, variable cytoplasm, and focal luminal necrotic debris, emphasizing architectural distortion and cytologic atypia as the reasons for selection."
+  },
+  {
+    "id": "1009060-3,x=12288,y=12288",
+    "filename": "1009060-3,x=12288,y=12288.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows densely cellular, irregularly arranged glands with cribriform and angulated lumina, nuclear crowding and hyperchromasia, within desmoplastic stroma, marked for its complex glandular architecture and increased cytologic atypia compared with the adjacent mucin-rich area."
+  },
+  {
+    "id": "8612-20,x=8192,y=28672",
+    "filename": "8612-20,x=8192,y=28672.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows irregular solid nests and trabeculae of crowded epithelial cells with enlarged hyperchromatic nuclei and scant glandular lumina, within fibrotic stroma and stromal clefts, marking a region of dense cellularity and infiltrative architecture."
+  },
+  {
+    "id": "8612-20,x=20480,y=8192",
+    "filename": "8612-20,x=20480,y=8192.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows increased cellularity with irregular nests and cords of atypical epithelial cells with hyperchromatic, pleomorphic nuclei and occasional mitoses, embedded in desmoplastic stroma intermingling with smooth muscle bundles, marked for disrupted glandular architecture and stromal reaction."
+  },
+  {
+    "id": "1009065,x=6144,y=18432",
+    "filename": "1009065,x=6144,y=18432.png",
+    "query": "Find the location of the malignant tissue. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows irregular, closely apposed branching glands lined by crowded pseudostratified columnar cells with hyperchromatic nuclei and occasional mitoses, with luminal eosinophilic debris and fibrotic stroma, marked for its altered glandular architecture and cytologic atypia."
+  },
+  {
+    "id": "6405-19,x=49152,y=53249",
+    "filename": "6405-19,x=49152,y=53249.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region is marked for crowded, irregular glands displaying cribriforming and luminal mucin/debris, lined by atypical stratified columnar cells with nuclear enlargement and mitoses, within desmoplastic stroma and focal necrotic material."
+  },
+  {
+    "id": "1009044,x=73729,y=28672",
+    "filename": "1009044,x=73729,y=28672.png",
+    "query": "Show the area that contains cancerous tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows irregular, angulated glandular structures with variably sized mucin-filled lumina embedded in dense desmoplastic stroma, with crowded epithelial cells displaying hyperchromatic nuclei and reduced polarity, marked to emphasize atypical glandular architecture and associated stromal reaction."
+  },
+  {
+    "id": "22327-20,x=24576,y=28672",
+    "filename": "22327-20,x=24576,y=28672.png",
+    "query": "Find the location of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, irregular glands with complex branching and slit-like lumina, lined by columnar cells displaying nuclear enlargement, hyperchromasia, and stratification, with diminished mucin, focal cribriforming, and surrounding desmoplastic stroma with scattered inflammatory cells."
+  },
+  {
+    "id": "b-11431(2-3),x=16384,y=32768",
+    "filename": "b-11431(2-3),x=16384,y=32768.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows irregular nests and cords of crowded epithelial cells within desmoplastic stroma, with enlarged hyperchromatic nuclei, mitotic figures, and focal abortive glandular lumina with luminal debris, marked to capture prominent cytologic atypia and infiltrative architecture."
+  },
+  {
+    "id": "6405-19,x=49152,y=49152",
+    "filename": "6405-19,x=49152,y=49152.png",
+    "query": "Show the area that contains cancerous tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows crowded, angulated glands with irregular lumina and cribriforming, embedded in fibrotic stroma; epithelial cells demonstrate nuclear enlargement, hyperchromasia, and occasional mitotic figures, with focal intraluminal mucin/debris, warranting attention for architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "6405-19,x=53249,y=40960",
+    "filename": "6405-19,x=53249,y=40960.png",
+    "query": "Show the area that contains cancerous tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows irregular, angulated glandular structures within desmoplastic stroma, with crowded back-to-back glands, luminal mucin and debris, stratified hyperchromatic nuclei, occasional mitotic figures, and focal budding at the stromal interface, marked to demonstrate architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "1009065,x=14336,y=10240",
+    "filename": "1009065,x=14336,y=10240.png",
+    "query": "Which part of the image shows the tumor? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows a compact sheet of small, darkly basophilic cells with high nuclear density and scant cytoplasm, lacking glandular lumina and contrasting with adjacent tubular structures, marked for its non-glandular, densely cellular pattern."
+  },
+  {
+    "id": "1009065,x=26624,y=20480",
+    "filename": "1009065,x=26624,y=20480.png",
+    "query": "Draw the boundaries of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area contains crowded, irregularly contoured glands with complex, cribriform lumina, nuclear stratification and hyperchromasia, focal luminal necrotic debris, and surrounding fibrotic stroma, marked to emphasize architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "b-11431(2-3),x=32768,y=20480",
+    "filename": "b-11431(2-3),x=32768,y=20480.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains solid nests of crowded epithelial cells with enlarged hyperchromatic nuclei, minimal glandular lumina, and surrounding desmoplastic stroma, marked to demonstrate the infiltrative interface and stromal reaction with compressed fibrous bands and focal vacuolated spaces."
+  },
+  {
+    "id": "b-11431-2(2-3),x=36864,y=36864",
+    "filename": "b-11431-2(2-3),x=36864,y=36864.png",
+    "query": "Which part of the image shows the tumor? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows irregular, variably sized and angulated glands with areas of cribriform architecture and luminal debris, within desmoplastic stroma, lined by crowded epithelial cells demonstrating nuclear pleomorphism, hyperchromasia, and occasional mitotic figures."
+  },
+  {
+    "id": "22327-20,x=32768,y=32768",
+    "filename": "22327-20,x=32768,y=32768.png",
+    "query": "Can you locate the region suspected to be cancerous? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area contains irregular, back-to-back glands with luminal cribriforming and necrotic debris, lined by crowded columnar cells showing enlarged hyperchromatic nuclei and occasional mitoses, set within desmoplastic stroma, marked to emphasize abnormal glandular architecture and cytologic atypia."
+  },
+  {
+    "id": "1009065,x=16384,y=24576",
+    "filename": "1009065,x=16384,y=24576.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows tightly packed, irregular glands with complex branching and cribriform lumina, lined by stratified, hyperchromatic columnar cells with reduced mucin, within desmoplastic stroma; marked to illustrate architectural complexity, crowding, and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "8612-20,x=12288,y=20480",
+    "filename": "8612-20,x=12288,y=20480.png",
+    "query": "Which part of the image shows the tumor? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows tightly packed epithelial cells in solid nests with minimal glandular lumina, nuclear pleomorphism and occasional mitotic figures, within desmoplastic stroma and focal necrotic debris, marked for its increased cellular density and disrupted mucosal architecture compared with surrounding tissue."
+  },
+  {
+    "id": "1009065,x=20480,y=16384",
+    "filename": "1009065,x=20480,y=16384.png",
+    "query": "Can you outline the tumor region in this image? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows irregular, closely packed glandular profiles with disrupted mucosal architecture, stratified hyperchromatic nuclei, and luminal debris, marked to emphasize the crowded epithelial pattern and altered gland formation."
+  },
+  {
+    "id": "1009065,x=14336,y=20480",
+    "filename": "1009065,x=14336,y=20480.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains irregular, crowded glandular epithelial clusters with back-to-back and cribriform architecture, hyperchromatic nuclei, scant cytoplasm, occasional luminal necrotic debris, and surrounding fibrous stroma, marked to illustrate disrupted gland formation and increased cellular density."
+  },
+  {
+    "id": "b-11431(2-3),x=28672,y=24576",
+    "filename": "b-11431(2-3),x=28672,y=24576.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "Highlighted region shows disorganized nests and poorly formed glands of crowded epithelial cells with enlarged hyperchromatic nuclei, variable nucleoli, and occasional mitotic figures, set within fibrotic/desmoplastic stroma and small luminal spaces, marked for its infiltrative architecture and pronounced cytologic atypia."
+  },
+  {
+    "id": "22327-20,x=24576,y=32768",
+    "filename": "22327-20,x=24576,y=32768.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows crowded, irregular and angulated glands with partial cribriforming, lined by stratified, hyperchromatic columnar cells and luminal mucin/debris, set in fibrotic, inflamed stroma, marked for its architectural complexity and increased nuclear density relative to surrounding tissue."
+  },
+  {
+    "id": "1009044,x=61441,y=32768",
+    "filename": "1009044,x=61441,y=32768.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains irregular, crowded glandular profiles within dense desmoplastic stroma, with pale mucinous pools and compressed lumina, marking an area of complex architecture and stromal change distinct from adjacent tissue."
+  },
+  {
+    "id": "25863-20,x=28672,y=49152",
+    "filename": "25863-20,x=28672,y=49152.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region demonstrates tightly packed, irregular glands with cribriforming, narrow lumina containing eosinophilic debris, lined by stratified, hyperchromatic columnar cells with loss of polarity and increased nuclear-to-cytoplasmic ratio, embedded in reactive/desmoplastic stroma, noted for atypical architectural and cytologic features."
+  },
+  {
+    "id": "b-11431-2(2-3),x=36864,y=28672",
+    "filename": "b-11431-2(2-3),x=36864,y=28672.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains irregular, angulated glands and small solid nests in desmoplastic stroma, with crowded epithelial cells displaying enlarged hyperchromatic nuclei, variable polarity, and focal luminal mucin."
+  },
+  {
+    "id": "22327-20,x=28672,y=45056",
+    "filename": "22327-20,x=28672,y=45056.png",
+    "query": "Point out the region that appears malignant. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregular glands with complex branching and cribriform lumina, lined by stratified columnar cells with nuclear enlargement and hyperchromasia, set within fibrotic desmoplastic stroma and adjacent mucin pools, marked for its abnormal architectural pattern and cytologic atypia."
+  },
+  {
+    "id": "6405-19,x=45056,y=16384",
+    "filename": "6405-19,x=45056,y=16384.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows irregular, back-to-back glandular structures with cribriforming, luminal mucin/debris, and crowded columnar cells exhibiting nuclear enlargement, hyperchromasia, and stratification within desmoplastic stroma, marked to demonstrate distorted architecture and cytologic abnormalities relative to adjacent tissue."
+  },
+  {
+    "id": "22327-20,x=20480,y=24576",
+    "filename": "22327-20,x=20480,y=24576.png",
+    "query": "Detect and label the tumor region in the image. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains crowded, irregular glands with complex branching lumina, nuclear stratification with hyperchromasia, reduced goblet cell maturation, and surrounding desmoplastic stroma with scattered inflammatory cells and focal intraluminal debris, marking an area of architectural and cytologic atypia for review."
+  },
+  {
+    "id": "6405-19,x=32768,y=8192",
+    "filename": "6405-19,x=32768,y=8192.png",
+    "query": "Indicate where the cancerous tissue is located. Summarize observable signs in the tumor area.",
+    "explanation": "Within the highlighted overlay, there are irregular, crowded glands with variable lumina and focal cribriforming embedded in desmoplastic stroma, showing nuclear enlargement, hyperchromasia, stratification, and luminal mucin/debris, emphasizing increased architectural complexity and cytologic atypia relative to surrounding areas."
+  },
+  {
+    "id": "1009060-3,x=20480,y=12288",
+    "filename": "1009060-3,x=20480,y=12288.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded solid sheets and trabecular cords of epithelioid cells with minimal glandular lumina, enlarged hyperchromatic nuclei, nuclear pleomorphism, and scattered mitotic figures, adjacent to fibrotic stroma, marked to emphasize disorganized architecture and the cellular-stromal interface."
+  },
+  {
+    "id": "1009065,x=16384,y=18432",
+    "filename": "1009065,x=16384,y=18432.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows crowded atypical epithelial cells forming irregular, back-to-back and focally cribriform glands with luminal debris, nuclear hyperchromasia and stratification, accompanied by fibrotic desmoplastic stroma and focal necrotic material, prompting attention for its complex architecture and cytologic atypia."
+  },
+  {
+    "id": "25863-20,x=28672,y=32768",
+    "filename": "25863-20,x=28672,y=32768.png",
+    "query": "Which part of the image shows the tumor? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows irregular, crowded glandular profiles with cribriforming and luminal spaces containing eosinophilic debris, lined by stratified, hyperchromatic columnar cells with reduced polarity, set within desmoplastic stroma and focal inflammatory infiltrates."
+  },
+  {
+    "id": "1009065,x=20480,y=14336",
+    "filename": "1009065,x=20480,y=14336.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains densely packed epithelial cells forming irregular, back-to-back and cribriform glands with limited lumens, nuclear crowding and hyperchromasia, with intraluminal eosinophilic debris and adjacent fibrous/desmoplastic stroma, marked to emphasize complex glandular architecture and cellular density compared with surrounding areas."
+  },
+  {
+    "id": "25863-20,x=28672,y=36864",
+    "filename": "25863-20,x=28672,y=36864.png",
+    "query": "Point out the region that appears malignant. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows irregular, back-to-back glandular profiles with cribriform bridges and narrow lumina, lined by stratified, hyperchromatic nuclei, marked to illustrate architectural complexity and nuclear crowding relative to adjacent tissue."
+  },
+  {
+    "id": "1009065,x=28672,y=12288",
+    "filename": "1009065,x=28672,y=12288.png",
+    "query": "Draw the boundaries of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows irregular, crowded glandular structures and nests with hyperchromatic, pleomorphic nuclei and mitotic figures, containing luminal debris, set within fibrotic desmoplastic stroma with inflammatory infiltrate, marked to emphasize architectural distortion and cytologic atypia relative to adjacent tissue."
+  },
+  {
+    "id": "22327-20,x=20480,y=49152",
+    "filename": "22327-20,x=20480,y=49152.png",
+    "query": "Point out the region that appears malignant. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area contains irregular, angulated glandular structures with back-to-back arrangement and luminal eosinophilic debris, lined by crowded columnar cells with enlarged, stratified, hyperchromatic nuclei, set within fibrotic desmoplastic stroma showing increased fibroblasts and scattered inflammatory cells."
+  },
+  {
+    "id": "1009060-3,x=16384,y=22528",
+    "filename": "1009060-3,x=16384,y=22528.png",
+    "query": "Can you locate the region suspected to be cancerous? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows densely packed basophilic epithelial clusters forming irregular, angulated gland-like structures with nuclear crowding, hyperchromasia, and pleomorphism, with focal luminal debris, set within fibrotic stroma—features marked for architectural distortion and increased cytologic atypia."
+  },
+  {
+    "id": "1009060-3,x=26624,y=24576",
+    "filename": "1009060-3,x=26624,y=24576.png",
+    "query": "Find the location of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows crowded solid nests and cords of pleomorphic epithelial cells with enlarged hyperchromatic nuclei, scant cytoplasm, occasional mitotic figures, and minimal glandular lumen formation, separated by fibrous stromal strands suggestive of desmoplastic reaction."
+  },
+  {
+    "id": "1009044,x=65537,y=32768",
+    "filename": "1009044,x=65537,y=32768.png",
+    "query": "Can you outline the tumor region in this image? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows irregular, angulated glands embedded in dense desmoplastic stroma, with mucin-filled lumina, luminal necrotic debris, and crowded hyperchromatic nuclei, indicating architectural disturbance and a prominent stromal reaction."
+  },
+  {
+    "id": "1009065,x=12288,y=6144",
+    "filename": "1009065,x=12288,y=6144.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, irregular glands with cribriform architecture, stratified columnar epithelium, enlarged hyperchromatic nuclei, reduced mucin, focal luminal necrotic debris, and desmoplastic stroma, marked to emphasize the distinct glandular pattern and cytologic atypia compared with surrounding areas."
+  },
+  {
+    "id": "1009060-3,x=20480,y=22528",
+    "filename": "1009060-3,x=20480,y=22528.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains crowded, irregular glandular structures and solid nests with enlarged hyperchromatic nuclei and occasional mitotic figures within fibrotic (desmoplastic-appearing) stroma, marked to emphasize architectural distortion, cytologic atypia, and the epithelial–stromal interface."
+  },
+  {
+    "id": "22327-20,x=8192,y=65536",
+    "filename": "22327-20,x=8192,y=65536.png",
+    "query": "Which part of the image shows the tumor? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows irregular, angulated glands with back-to-back and focal cribriform architecture, lined by stratified hyperchromatic epithelium with luminal mucin and necrotic debris, set within fibrotic desmoplastic stroma containing scattered inflammatory cells."
+  },
+  {
+    "id": "22327-20,x=24576,y=49152",
+    "filename": "22327-20,x=24576,y=49152.png",
+    "query": "Draw the boundaries of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows complex, irregular glands with cribriforming and back-to-back crowding, embedded in desmoplastic stroma, displaying nuclear stratification, hyperchromasia, and luminal 'dirty' necrotic debris, which explains the marking for architectural distortion and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "8612-20,x=20480,y=16384",
+    "filename": "8612-20,x=20480,y=16384.png",
+    "query": "Find the location of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows dense desmoplastic stroma traversed by irregular cords and small clusters of atypical epithelial cells with reduced gland formation, enlarged hyperchromatic nuclei, and occasional mitotic figures, marked to demonstrate stromal reaction and infiltrative arrangement."
+  },
+  {
+    "id": "1009065,x=6144,y=14336",
+    "filename": "1009065,x=6144,y=14336.png",
+    "query": "Find the location of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The marked region shows irregular, closely packed glands with cribriforming, enlarged stratified nuclei, visible mitotic figures, and luminal debris/necrosis, within desmoplastic stroma—highlighting complex glandular architecture and cellular crowding."
+  },
+  {
+    "id": "6405-19,x=32768,y=20480",
+    "filename": "6405-19,x=32768,y=20480.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows crowded irregular glands with complex branching and slit-like lumina, lined by stratified columnar cells with enlarged hyperchromatic nuclei; luminal necrotic debris and surrounding desmoplastic stroma are noted, marking architectural complexity and cytologic changes."
+  },
+  {
+    "id": "1009065,x=18432,y=4096",
+    "filename": "1009065,x=18432,y=4096.png",
+    "query": "Which part of the image shows the tumor? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains closely packed, irregular glands with cribriform architecture and luminal debris, lined by stratified, hyperchromatic epithelial cells within fibrotic stroma, marked to demonstrate architectural complexity and cytologic crowding compared with surrounding tissue."
+  },
+  {
+    "id": "b-11431-2(2-3),x=24576,y=45056",
+    "filename": "b-11431-2(2-3),x=24576,y=45056.png",
+    "query": "Which part of the image shows the tumor? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region displays crowded, irregularly anastomosing and cribriform glandular profiles embedded in desmoplastic stroma, formed by atypical epithelial cells with enlarged hyperchromatic nuclei and variable intraluminal mucin/debris, marked to illustrate architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "25863-20,x=20480,y=36864",
+    "filename": "25863-20,x=20480,y=36864.png",
+    "query": "Indicate where the cancerous tissue is located. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows irregular, crowded glandular structures with back-to-back architecture, lined by tall columnar cells demonstrating nuclear pseudostratification and hyperchromasia, with luminal mucin and granular necrotic debris, marking a region of complex gland formation and intraluminal material."
+  },
+  {
+    "id": "b-11431-2(2-3),x=53248,y=12288",
+    "filename": "b-11431-2(2-3),x=53248,y=12288.png",
+    "query": "Which part of the image shows the tumor? Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains irregular angulated glands and solid nests of crowded epithelial cells within fibrotic (desmoplastic) stroma, showing nuclear enlargement, hyperchromasia, scattered mitoses, and focal luminal formation, marked for infiltrative architecture and cytologic atypia."
+  },
+  {
+    "id": "1009065,x=4096,y=14336",
+    "filename": "1009065,x=4096,y=14336.png",
+    "query": "Show the area that contains cancerous tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains crowded, irregular and partially cribriform glands with luminal debris, lined by atypical columnar cells showing nuclear enlargement, hyperchromasia, and scattered mitoses, embedded within a desmoplastic fibrous stroma."
+  },
+  {
+    "id": "8156-19,x=45057,y=24576",
+    "filename": "8156-19,x=45057,y=24576.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows irregular, angulated glands embedded in desmoplastic stroma, with crowded hyperchromatic nuclei, intracellular and luminal mucin, and small detached cell clusters at the edges, marked for architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "6405-19,x=57345,y=36864",
+    "filename": "6405-19,x=57345,y=36864.png",
+    "query": "Can you outline the tumor region in this image? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows irregular, crowded glands with angulated and cribriform lumina, nuclear stratification and hyperchromasia, occasional mitotic figures, and luminal necrotic debris, within desmoplastic stroma containing scattered inflammatory cells, marked for architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "22327-20,x=16384,y=24576",
+    "filename": "22327-20,x=16384,y=24576.png",
+    "query": "Point out the region that appears malignant. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows crowded, irregular glands with angulated lumina, lined by stratified columnar cells with enlarged hyperchromatic nuclei and occasional mitoses, set in desmoplastic stroma; marked to emphasize complex architecture and cytologic atypia compared with adjacent mucosa."
+  },
+  {
+    "id": "b-11431-2(2-3),x=61440,y=12288",
+    "filename": "b-11431-2(2-3),x=61440,y=12288.png",
+    "query": "Detect and label the tumor region in the image. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows dense collagenous stroma with spindle cells and a distorted, irregular gland containing a luminal space lined by crowded, hyperchromatic epithelial cells, marked for the stromal reaction and altered glandular architecture at the interface with more cellular tissue."
+  },
+  {
+    "id": "8612-20,x=28672,y=20480",
+    "filename": "8612-20,x=28672,y=20480.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows irregular, crowded glands and small nests of epithelial cells with hyperchromatic, pleomorphic nuclei and limited lumina, set within desmoplastic stroma and adjacent to smooth muscle bundles, drawing attention to the disrupted glandular architecture and stromal reaction."
+  },
+  {
+    "id": "1009065,x=24576,y=10240",
+    "filename": "1009065,x=24576,y=10240.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows crowded, angulated glands with cribriforming and back-to-back arrangement, lined by pleomorphic, hyperchromatic epithelial cells exhibiting nuclear stratification, focal mucin, and luminal debris, within desmoplastic stroma—marked for its pronounced architectural complexity."
+  },
+  {
+    "id": "1009060-3,x=22528,y=22528",
+    "filename": "1009060-3,x=22528,y=22528.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "Highlighted area shows sheets of dyscohesive cells with pleomorphic hyperchromatic nuclei, scant cytoplasm, and focal abortive gland-like spaces within a fibrous/desmoplastic stroma, with architectural disarray and interspersed pale acellular spaces."
+  },
+  {
+    "id": "1009044,x=81921,y=32768",
+    "filename": "1009044,x=81921,y=32768.png",
+    "query": "Can you locate the region suspected to be cancerous? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregularly angulated gland-like structures embedded in fibrotic desmoplastic stroma, with variable luminal caliber containing eosinophilic debris and focal inflammatory infiltrates, marked for its complex architecture and prominent stromal response."
+  },
+  {
+    "id": "1009065,x=28672,y=14336",
+    "filename": "1009065,x=28672,y=14336.png",
+    "query": "Can you locate the region suspected to be cancerous? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed small, dark nuclei with scant cytoplasm, mixed with granular eosinophilic material and cellular debris, forming a focal cluster adjacent to distorted glandular lumina, marked for its concentrated cellularity and associated luminal material."
+  },
+  {
+    "id": "8612-20,x=20480,y=32768",
+    "filename": "8612-20,x=20480,y=32768.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "Highlighted region shows densely packed irregular epithelial nests with focal abortive glandular lumina, nuclear pleomorphism and hyperchromasia, scattered mitotic figures, and adjacent fibrotic stroma, which explains the marking for architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "22327-20,x=16384,y=49152",
+    "filename": "22327-20,x=16384,y=49152.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows crowded, irregular, back-to-back glands with complex branching and cribriforming, hyperchromatic elongated nuclei, luminal mucin and focal necrotic debris, frequent mitotic figures, and surrounding desmoplastic stroma, distinguishing it from adjacent inflamed tissue."
+  },
+  {
+    "id": "1501-19,x=28672,y=28672",
+    "filename": "1501-19,x=28672,y=28672.png",
+    "query": "Point out the region that appears malignant. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows irregular, angulated and partially fused glands with cribriform areas, lined by crowded hyperchromatic pseudostratified cells, containing intraluminal mucin/debris and surrounded by desmoplastic stroma, marked to illustrate architectural distortion and cytologic atypia compared with adjacent tissue."
+  },
+  {
+    "id": "6405-19,x=40960,y=12288",
+    "filename": "6405-19,x=40960,y=12288.png",
+    "query": "Which part of the image shows the tumor? Provide key visual clues of the malignant region.",
+    "explanation": "Highlighted area shows irregular, angulated glandular profiles with cribriforming and luminal mucin, lined by crowded, stratified, hyperchromatic epithelial cells, embedded in desmoplastic stroma; marked to demonstrate architectural complexity and the epithelial–stromal interface with focal luminal debris."
+  },
+  {
+    "id": "b-11431-2(2-3),x=57344,y=20480",
+    "filename": "b-11431-2(2-3),x=57344,y=20480.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area contains irregular, angulated glands within desmoplastic stroma, showing crowded hyperchromatic nuclei, stratification, occasional mitoses, and luminal eosinophilic debris—marked to demonstrate infiltrative glandular architecture and cytologic atypia in this region."
+  },
+  {
+    "id": "1009060-3,x=22528,y=16384",
+    "filename": "1009060-3,x=22528,y=16384.png",
+    "query": "Which part of the image shows the tumor? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows densely packed epithelial cells in solid nests with irregular, poorly formed glandular lumina, enlarged hyperchromatic nuclei and variable cytoplasmic mucin, set within fibrous stroma; it is marked for its increased cellularity, disorganized architecture, and focal luminal structures."
+  },
+  {
+    "id": "6405-19,x=28672,y=8192",
+    "filename": "6405-19,x=28672,y=8192.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows complex, back-to-back and cribriform glands with variably dilated lumina containing eosinophilic granular debris and red cells, lined by crowded hyperchromatic epithelium with nuclear stratification and occasional mitoses, embedded within desmoplastic stroma."
+  },
+  {
+    "id": "22327-20,x=28672,y=28672",
+    "filename": "22327-20,x=28672,y=28672.png",
+    "query": "Indicate where the cancerous tissue is located. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows irregular, angulated glands with mucin-filled lumens, lined by crowded stratified epithelium exhibiting nuclear enlargement and hyperchromasia, within fibrotic desmoplastic stroma and scattered inflammatory cells, marking focal architectural distortion compared with adjacent regions."
+  },
+  {
+    "id": "1009065,x=10240,y=22528",
+    "filename": "1009065,x=10240,y=22528.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains irregular, back-to-back glands with cribriform and papillary contours, lined by stratified hyperchromatic cells, showing luminal necrotic debris and desmoplastic stroma, marked to capture complex architecture and increased cellular density."
+  },
+  {
+    "id": "6405-19,x=49152,y=20480",
+    "filename": "6405-19,x=49152,y=20480.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains crowded, angulated glands with cribriform areas and mucinous lumina within desmoplastic stroma, lined by stratified, hyperchromatic nuclei with prominent nucleoli and occasional mitoses, explaining its marking as a focus of architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "b-11431-2(2-3),x=40960,y=24576",
+    "filename": "b-11431-2(2-3),x=40960,y=24576.png",
+    "query": "Point out the region that appears malignant. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows irregular angulated gland-like structures and small solid nests of crowded epithelial cells with enlarged hyperchromatic nuclei and occasional luminal debris, embedded in desmoplastic stroma with focal stromal retraction, marking architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "1009065,x=20480,y=24576",
+    "filename": "1009065,x=20480,y=24576.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region demonstrates closely packed, angulated and branching glands with focal cribriform architecture, lined by pseudostratified hyperchromatic cells, embedded in desmoplastic stroma, with intraluminal mucin and granular necrotic debris in some lumina, prompting annotation for architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "25863-20,x=36864,y=28672",
+    "filename": "25863-20,x=36864,y=28672.png",
+    "query": "Detect and label the tumor region in the image. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows irregular, crowded, angulated glands with cribriform architecture and mucin-filled lumina, lined by columnar cells exhibiting nuclear enlargement, hyperchromasia, and stratification, within dense desmoplastic stroma and scattered inflammation, marked to illustrate the complex glandular pattern and cytologic features."
+  },
+  {
+    "id": "1009065,x=20480,y=22528",
+    "filename": "1009065,x=20480,y=22528.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains irregular, angulated glands within fibrotic stroma, with crowded epithelial cells showing stratification, variable nuclear size, and luminal necrotic debris; the gland–stroma interface appears jagged with small budding glandular fragments noted."
+  },
+  {
+    "id": "25863-20,x=24576,y=28672",
+    "filename": "25863-20,x=24576,y=28672.png",
+    "query": "Point out the region that appears malignant. Give a brief rationale for why this area is suspicious.",
+    "explanation": "Highlighted area displays closely packed, branching and partially cribriform glands with irregular slit-like lumina, lined by crowded columnar epithelial cells showing nuclear stratification and hyperchromasia, within a fibrous stromal background containing small vessels and focal mucin pools."
+  },
+  {
+    "id": "b-11431-2(2-3),x=45056,y=20480",
+    "filename": "b-11431-2(2-3),x=45056,y=20480.png",
+    "query": "Show the area that contains cancerous tissue. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area contains extensive eosinophilic necrotic debris with karyorrhectic nuclear fragments, abundant neutrophils, and loss of cohesive glandular structures, with fibrotic strands and empty spaces, marking a zone of tissue breakdown adjacent to more cellular regions."
+  },
+  {
+    "id": "8612-20,x=16384,y=20480",
+    "filename": "8612-20,x=16384,y=20480.png",
+    "query": "Find the location of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains irregular gland‑like epithelial clusters with crowded, hyperchromatic nuclei embedded within densely collagenized, swirling stroma, with adjacent microvessels containing erythrocytes and interspersed inflammatory cells."
+  },
+  {
+    "id": "1009060-3,x=10240,y=14336",
+    "filename": "1009060-3,x=10240,y=14336.png",
+    "query": "Draw the boundaries of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, irregular glands and cribriform nests with back-to-back architecture, luminal debris, nuclear enlargement with stratification, and surrounding desmoplastic stroma, marking an area of architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "1009065,x=12288,y=8192",
+    "filename": "1009065,x=12288,y=8192.png",
+    "query": "Point out the region that appears malignant. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows crowded, irregular glands and solid nests with cribriforming, lined by stratified hyperchromatic cells with prominent nucleoli, increased nuclear-to-cytoplasmic ratio, and focal intraluminal debris, set within fibrous stroma, prompting attention for its architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "8612-20,x=12288,y=12288",
+    "filename": "8612-20,x=12288,y=12288.png",
+    "query": "Detect and label the tumor region in the image. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region demonstrates densely packed epithelial cells arranged in solid nests with minimal glandular lumina, nuclear enlargement and pleomorphism, scattered mitotic figures, and desmoplastic stroma, marking architectural and cytologic deviation from adjacent tissue."
+  },
+  {
+    "id": "1009065,x=12288,y=22528",
+    "filename": "1009065,x=12288,y=22528.png",
+    "query": "Can you outline the tumor region in this image? Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows irregular, back‑to‑back and cribriform glands with luminal necrotic debris, surrounded by desmoplastic stroma, and composed of crowded, stratified epithelial cells with nuclear enlargement, hyperchromasia, and frequent mitotic figures, marked for its complex architecture and cytologic atypia."
+  },
+  {
+    "id": "b-11431-2(2-3),x=32768,y=28672",
+    "filename": "b-11431-2(2-3),x=32768,y=28672.png",
+    "query": "Can you locate the region suspected to be cancerous? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows irregular, anastomosing glands with back-to-back arrangement and variable lumina, lined by crowded epithelial cells with enlarged, hyperchromatic nuclei, within desmoplastic stroma; it is marked to emphasize the glandular architectural complexity and interface with the adjacent more solid, basophilic cellular zone."
+  },
+  {
+    "id": "22327-20,x=16384,y=57344",
+    "filename": "22327-20,x=16384,y=57344.png",
+    "query": "Detect and label the tumor region in the image. Summarize observable signs in the tumor area.",
+    "explanation": "Highlighted region shows densely cellular stroma with prominent neutrophilic inflammation encasing irregular, crowded glandular structures displaying cribriform and back-to-back architecture, nuclear enlargement, and luminal debris, marking focal architectural distortion relative to surrounding tissue."
+  },
+  {
+    "id": "25863-20,x=40960,y=40960",
+    "filename": "25863-20,x=40960,y=40960.png",
+    "query": "Find the location of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region demonstrates irregular, back-to-back glandular structures with focal cribriforming and luminal necrotic debris, lined by crowded, hyperchromatic columnar cells showing nuclear stratification and mitotic figures, set within fibrotic/desmoplastic stroma."
+  },
+  {
+    "id": "6405-19,x=32768,y=24576",
+    "filename": "6405-19,x=32768,y=24576.png",
+    "query": "Which part of the image shows the tumor? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows an elongated, blood-filled luminal space lined by flattened endothelial-appearing cells, set within dense desmoplastic stroma and neighboring distorted glands, marked to illustrate a prominent intraluminal channel with red cell aggregates amid tumor-associated fibrous tissue."
+  },
+  {
+    "id": "b-11431-2(2-3),x=32768,y=36864",
+    "filename": "b-11431-2(2-3),x=32768,y=36864.png",
+    "query": "Draw the boundaries of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows irregular, angulated glands and solid nests within desmoplastic stroma, with crowded cells displaying enlarged hyperchromatic nuclei, variable lumen formation, and focal mucin-like spaces, warranting annotation as a focus of disorganized glandular architecture."
+  },
+  {
+    "id": "1009065,x=6144,y=12288",
+    "filename": "1009065,x=6144,y=12288.png",
+    "query": "Which part of the image shows the tumor? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands with complex cribriform and papillary infolding, lined by stratified hyperchromatic nuclei with loss of polarity, focal luminal necrotic debris and mucin, and surrounding fibrotic stroma with scattered inflammatory cells."
+  },
+  {
+    "id": "1501-19,x=81920,y=16384",
+    "filename": "1501-19,x=81920,y=16384.png",
+    "query": "Which part of the image shows the tumor? Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows irregular, angulated glands embedded in desmoplastic stroma, with variable lumina, nuclear pleomorphism, and luminal debris; the marking emphasizes the crowded, haphazard glandular architecture and separation by pale stromal spaces compared with adjacent areas."
+  },
+  {
+    "id": "1009065,x=20480,y=20480",
+    "filename": "1009065,x=20480,y=20480.png",
+    "query": "Which part of the image shows the tumor? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregular glandular structures with cribriform and slit-like lumina lined by hyperchromatic, stratified epithelium; luminal debris and focal mucin are present, situated within fibrotic, desmoplastic stroma."
+  },
+  {
+    "id": "b-11431-2(2-3),x=8192,y=53248",
+    "filename": "b-11431-2(2-3),x=8192,y=53248.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows infiltrative cords and small clusters of atypical epithelial cells within fibrotic (desmoplastic) stroma, with scattered intracytoplasmic mucin vacuoles and nuclear pleomorphism, abutting adipose tissue."
+  },
+  {
+    "id": "1009044,x=69633,y=32768",
+    "filename": "1009044,x=69633,y=32768.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows an irregular, dilated gland containing mucinous and cellular debris, lined by crowded, stratified columnar cells within desmoplastic stroma, marked for abnormal gland architecture and conspicuous intraluminal contents."
+  },
+  {
+    "id": "1009065,x=18432,y=10240",
+    "filename": "1009065,x=18432,y=10240.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region displays tightly packed, irregular glands with loss of polarity, nuclear crowding and hyperchromasia, focal cribriforming, and luminal necrotic debris, set within fibrotic stroma, features marked to illustrate abnormal glandular architecture compared with adjacent tissue."
+  },
+  {
+    "id": "b-11431(2-3),x=36864,y=28672",
+    "filename": "b-11431(2-3),x=36864,y=28672.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains crowded, irregular glandular and solid nests of columnar epithelial cells with enlarged hyperchromatic nuclei, prominent nucleoli, occasional mitotic figures, and desmoplastic stromal reaction adjacent to clefted spaces, indicating altered architecture targeted for assessment."
+  },
+  {
+    "id": "8156-19,x=57345,y=16384",
+    "filename": "8156-19,x=57345,y=16384.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows irregular, angulated glands and small nests within fibrotic, desmoplastic stroma, with variable luminal mucin and crowded, hyperchromatic nuclei, emphasizing disordered glandular architecture and associated stromal reaction as features of interest."
+  },
+  {
+    "id": "Subset1_Test_13,x=26624,y=36864",
+    "filename": "Subset1_Test_13,x=26624,y=36864.png",
+    "query": "Show the area that contains cancerous tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows confluent sheets of crowded epithelial cells with scant stroma, lacking well-formed luminal structures, with enlarged hyperchromatic nuclei and eosinophilic cytoplasm, contrasting with the adjacent area containing distinct glands and intervening fibromuscular tissue."
+  },
+  {
+    "id": "Subset1_Test_15,x=22528,y=28672",
+    "filename": "Subset1_Test_15,x=22528,y=28672.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows tightly arranged, poorly formed tubules and cords within desmoplastic stroma, with loss of luminal architecture and nuclear enlargement with prominent nucleoli; it is marked to demonstrate an infiltrative pattern and reduced glandular differentiation compared with adjacent, more clearly luminal structures."
+  },
+  {
+    "id": "Subset1_Test_16,x=40960,y=61440",
+    "filename": "Subset1_Test_16,x=40960,y=61440.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "Highlighted region contains tightly clustered, irregularly contoured prostatic glands with minimal intervening stroma, occasional cribriforming and intraluminal eosinophilic secretions, lined by uniform cuboidal cells with enlarged, hyperchromatic nuclei; selected to emphasize architectural crowding and luminal complexity compared with surrounding less compact glands."
+  },
+  {
+    "id": "Subset1_Test_1,x=28672,y=18432",
+    "filename": "Subset1_Test_1,x=28672,y=18432.png",
+    "query": "Detect and label the tumor region in the image. Summarize observable signs in the tumor area.",
+    "explanation": "Marked region displays crowded, irregular glands with variable, often slit-like lumina and areas of gland fusion within desmoplastic stroma; epithelial cells show nuclear enlargement, hyperchromasia, and prominent nucleoli, highlighted to demonstrate the altered glandular architecture compared with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_13,x=32768,y=14336",
+    "filename": "Subset1_Test_13,x=32768,y=14336.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows tightly packed, irregular and partially fused small glands and cords within fibromuscular stroma, with scant lumina and conspicuous nucleoli, adjacent to adipose tissue; marked for architectural disorganization and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=44032,y=57344",
+    "filename": "Subset1_Test_1,x=44032,y=57344.png",
+    "query": "Can you outline the tumor region in this image? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area shows tightly packed, irregularly contoured small glands with reduced lumina and haphazard arrangement within fibromuscular stroma; epithelial cells display enlarged nuclei and conspicuous nucleoli, making this region notable for complex glandular architecture and increased cellularity."
+  },
+  {
+    "id": "Subset1_Test_13,x=43008,y=32768",
+    "filename": "Subset1_Test_13,x=43008,y=32768.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows tightly packed epithelial cells forming fused, ill-defined glands and solid nests with scant luminal spaces, increased nuclear crowding and variability, and fibromyxoid stroma, prompting annotation for its disorganized architecture relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_15,x=22528,y=22528",
+    "filename": "Subset1_Test_15,x=22528,y=22528.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area contains crowded epithelial cells arranged in poorly formed, fused glands and irregular cords within fibrous stroma, showing diminished luminal spaces, nuclear enlargement with hyperchromasia, and an infiltrative interface compared with the adjacent, more organized acinar tissue."
+  },
+  {
+    "id": "Subset1_Test_15,x=26624,y=26624",
+    "filename": "Subset1_Test_15,x=26624,y=26624.png",
+    "query": "Which part of the image shows the tumor? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows closely packed, irregular glands with variable luminal contours, reduced intervening stroma, and epithelial cells displaying enlarged nuclei with conspicuous nucleoli; this area is marked for its architectural crowding and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_11,x=6144,y=22528",
+    "filename": "Subset1_Test_11,x=6144,y=22528.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows crowded, angulated microglands with irregular lumina within collagenized fibromuscular stroma, marked for its disorganized architecture, scant intervening stroma, and cytologic atypia characterized by enlarged nuclei and conspicuous nucleoli."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=53248",
+    "filename": "Subset1_Test_1,x=34816,y=53248.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows crowded, irregularly contoured small to medium glands arranged back-to-back with minimal intervening stroma, occasional luminal secretions, and epithelial cells with enlarged hyperchromatic nuclei and conspicuous nucleoli, prompting attention for its architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_1,x=38912,y=59392",
+    "filename": "Subset1_Test_1,x=38912,y=59392.png",
+    "query": "Point out the region that appears malignant. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured small glands with focal fusion into cords and cribriform nests, attenuated lumina, desmoplastic stroma, and enlarged hyperchromatic nuclei, features marked to emphasize notable architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_11,x=4096,y=26624",
+    "filename": "Subset1_Test_11,x=4096,y=26624.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregular microglands with angulated contours and scant lumina within fibrotic stroma; epithelial nuclei are hyperchromatic and crowded, marking this area for its disordered glandular architecture and associated stromal reaction."
+  },
+  {
+    "id": "Subset1_Test_1,x=36864,y=51200",
+    "filename": "Subset1_Test_1,x=36864,y=51200.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The marked area shows crowded, irregularly contoured glands with variable luminal sizes, focal gland fusion and poorly formed or slit-like lumina, set within scant intervening stroma, highlighting architectural distortion and increased glandular density relative to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=38912,y=63488",
+    "filename": "Subset1_Test_1,x=38912,y=63488.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains crowded, irregularly contoured glands with reduced luminal spaces, nuclear overlap, and intervening fibrous stroma, with occasional cribriform-like bridging and intraluminal secretions, marked to emphasize architectural distortion and gland fusion relative to surrounding more discrete acini."
+  },
+  {
+    "id": "Subset1_Test_15,x=26624,y=16384",
+    "filename": "Subset1_Test_15,x=26624,y=16384.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted band shows dense fibrous stroma containing crowded epithelial cords and small, poorly formed glands with scant lumina, nuclear enlargement and hyperchromasia, and irregular contours, marked to emphasize the altered architecture compared with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_13,x=36864,y=24576",
+    "filename": "Subset1_Test_13,x=36864,y=24576.png",
+    "query": "Show the area that contains cancerous tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region demonstrates closely packed, irregular glands with poorly formed lumina, gland fusion into cords, nuclear enlargement with prominent nucleoli, and desmoplastic stromal reaction, marked to emphasize disrupted glandular architecture and increased cellular density compared with surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_12,x=18432,y=77824",
+    "filename": "Subset1_Test_12,x=18432,y=77824.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed, irregular, variably sized glands with narrow lumina and reduced intervening stroma, lined by crowded epithelial cells with enlarged hyperchromatic nuclei and occasional nucleoli within fibromuscular/desmoplastic stroma; marked for its conspicuous architectural crowding and cytologic alterations compared with adjacent areas."
+  },
+  {
+    "id": "Subset1_Test_12,x=18432,y=71680",
+    "filename": "Subset1_Test_12,x=18432,y=71680.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "Highlighted area shows tightly clustered, variably sized glands with irregular luminal contours, focal fusion, scant intervening stroma, and epithelial cells with enlarged hyperchromatic nuclei and occasional nucleoli; lumina contain eosinophilic secretions, making this region notable for distinct architectural and cytologic features."
+  },
+  {
+    "id": "Subset1_Test_15,x=26624,y=30720",
+    "filename": "Subset1_Test_15,x=26624,y=30720.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows crowded epithelial nests and poorly formed glands with irregular lumina within fibrotic stroma; nuclei are enlarged and hyperchromatic with conspicuous nucleoli, and a larger distorted gland demonstrates intraluminal debris."
+  },
+  {
+    "id": "Subset1_Test_12,x=16384,y=75776",
+    "filename": "Subset1_Test_12,x=16384,y=75776.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "Within the highlighted area, there are tightly packed, irregular and angulated glands with variable lumina, focal gland fusion and luminal bridging (cribriform-like), scant intervening stroma, and increased nuclear density, marked to illustrate architectural crowding and complexity."
+  },
+  {
+    "id": "Subset1_Test_1,x=28672,y=63488",
+    "filename": "Subset1_Test_1,x=28672,y=63488.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area contains crowded, irregularly contoured glands with variable luminal size and focal cribriform architecture, lined by enlarged, hyperchromatic nuclei with occasional nucleoli, minimal intervening stroma, and intraluminal eosinophilic secretions."
+  },
+  {
+    "id": "Subset1_Test_1,x=26624,y=51200",
+    "filename": "Subset1_Test_1,x=26624,y=51200.png",
+    "query": "Point out the region that appears malignant. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows a linear band of basophilic cellularity within fibrous stroma, adjacent to crowded, irregularly contoured glands with attenuated lumina and nuclear hyperchromasia, indicating increased cellular density compared with surrounding areas and thus marked for assessment of architectural and cytologic alterations."
+  },
+  {
+    "id": "Subset1_Test_15,x=22528,y=36864",
+    "filename": "Subset1_Test_15,x=22528,y=36864.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows crowded, variably sized, irregularly contoured small glands and glandular cords within fibromuscular stroma, with scant intervening stroma, small lumina, and epithelial cells displaying enlarged hyperchromatic nuclei with occasional prominent nucleoli."
+  },
+  {
+    "id": "Subset1_Test_16,x=18432,y=12288",
+    "filename": "Subset1_Test_16,x=18432,y=12288.png",
+    "query": "Point out the region that appears malignant. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows closely packed, irregularly contoured glands with partial fusion, papillary/tufted luminal projections, scant intervening stroma, and epithelial cells with enlarged hyperchromatic nuclei and conspicuous nucleoli, warranting attention for architectural crowding and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=20480",
+    "filename": "Subset1_Test_1,x=34816,y=20480.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands with variable lumina, lined by epithelial cells with nuclear enlargement and conspicuous nucleoli, within fibrous stroma; focal intraluminal eosinophilic secretions are present, marking a distinct architectural and cytologic pattern for closer assessment."
+  },
+  {
+    "id": "Subset1_Test_16,x=10240,y=55296",
+    "filename": "Subset1_Test_16,x=10240,y=55296.png",
+    "query": "Which part of the image shows the tumor? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows densely basophilic epithelial proliferation forming irregularly fused, cribriform glands with punched-out lumina and luminal eosinophilic debris, with prominent nuclear crowding and stratification, contrasting with adjacent more organized acini."
+  },
+  {
+    "id": "Subset1_Test_13,x=38912,y=22528",
+    "filename": "Subset1_Test_13,x=38912,y=22528.png",
+    "query": "Can you outline the tumor region in this image? Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains tightly packed epithelial nests with limited glandular lumina, enlarged round nuclei with conspicuous nucleoli, and a pushing border abutting fibromuscular stroma, marked to emphasize solid growth pattern and nuclear prominence."
+  },
+  {
+    "id": "Subset1_Test_13,x=32768,y=30720",
+    "filename": "Subset1_Test_13,x=32768,y=30720.png",
+    "query": "Can you locate the region suspected to be cancerous? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands merging into fused and cribriform-like structures with attenuated lumina, lined by epithelial cells with enlarged nuclei and conspicuous nucleoli, within fibromuscular stroma displaying focal desmoplastic reaction, warranting attention for its architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_11,x=4096,y=24576",
+    "filename": "Subset1_Test_11,x=4096,y=24576.png",
+    "query": "Point out the region that appears malignant. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, variably sized glands with irregular contours and narrowed lumina, lined by enlarged hyperchromatic epithelial cells; the glands are separated by fibromuscular stroma exhibiting a desmoplastic quality with focal cribriform architecture, marking architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_13,x=32768,y=28672",
+    "filename": "Subset1_Test_13,x=32768,y=28672.png",
+    "query": "Show the area that contains cancerous tissue. Explain the features of the malignant tissue.",
+    "explanation": "The marked area shows tightly packed, irregular and angulated glands transitioning to cords and small nests with scant lumina, composed of crowded epithelioid cells with enlarged hyperchromatic nuclei and visible nucleoli, set within desmoplastic fibromuscular stroma, prompting attention for its infiltrative growth pattern."
+  },
+  {
+    "id": "Subset1_Test_15,x=24576,y=49152",
+    "filename": "Subset1_Test_15,x=24576,y=49152.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains tightly packed, irregular small acini and short cords with scant lumina, embedded in fibromuscular stroma; increased nuclear crowding and reduced glandular spacing mark this area for its distinct architectural pattern compared with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_13,x=34816,y=24576",
+    "filename": "Subset1_Test_13,x=34816,y=24576.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows a confluent focus of crowded, irregular and partially fused small glands transitioning to solid nests and cords, with scant luminal formation, nuclear enlargement with conspicuous nucleoli, and intervening desmoplastic stroma—features flagged for architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_13,x=28672,y=30720",
+    "filename": "Subset1_Test_13,x=28672,y=30720.png",
+    "query": "Draw the boundaries of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands and small nests with slit-like lumina embedded in fibromuscular stroma, with cells exhibiting nuclear enlargement, hyperchromasia, and conspicuous nucleoli, marked for architectural disarray and gland fusion."
+  },
+  {
+    "id": "Subset1_Test_1,x=26624,y=16384",
+    "filename": "Subset1_Test_1,x=26624,y=16384.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains crowded, irregular microacinar structures and cords within fibromuscular stroma, with attenuated or absent lumina, nuclear enlargement and conspicuous nucleoli, minimal intervening stroma, and contrast with better-formed glands nearby; it is marked for architectural disarray and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_13,x=28672,y=28672",
+    "filename": "Subset1_Test_13,x=28672,y=28672.png",
+    "query": "Show the area that contains cancerous tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows crowded, irregularly contoured glands and ill-defined fused nests with scant luminal spaces, lined by enlarged cells with moderate nuclear atypia and occasional prominent nucleoli, set within fibromuscular stroma with desmoplastic strands and focal intraluminal secretions."
+  },
+  {
+    "id": "Subset1_Test_12,x=22528,y=73728",
+    "filename": "Subset1_Test_12,x=22528,y=73728.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows tightly packed, irregular glands with partial fusion, variable luminal sizes, and epithelial stratification featuring enlarged, hyperchromatic nuclei; minimal intervening stroma and focal eosinophilic luminal secretions are noted."
+  },
+  {
+    "id": "Subset1_Test_12,x=10240,y=63488",
+    "filename": "Subset1_Test_12,x=10240,y=63488.png",
+    "query": "Can you outline the tumor region in this image? Summarize observable signs in the tumor area.",
+    "explanation": "Highlighted region shows closely packed, irregular small glands with angulated contours and variable lumina, embedded in fibrous stroma, with luminal eosinophilic secretions and epithelial cells demonstrating nuclear enlargement and prominent nucleoli; it is marked for its increased gland density and disturbed architecture relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_12,x=8192,y=63488",
+    "filename": "Subset1_Test_12,x=8192,y=63488.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands with variable luminal sizes and occasional fusion, within fibrous/desmoplastic stroma, and epithelial cells exhibiting enlarged hyperchromatic nuclei with visible nucleoli; it is marked to illustrate architectural disturbance and associated cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_1,x=38912,y=53248",
+    "filename": "Subset1_Test_1,x=38912,y=53248.png",
+    "query": "Detect and label the tumor region in the image. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains irregular, angulated glands with reduced luminal contours, epithelial crowding and nuclear enlargement, embedded in fibrous stroma; it is marked to emphasize the disorganized glandular architecture, increased cellular density, and stromal reaction compared with adjacent more uniform acini."
+  },
+  {
+    "id": "Subset1_Test_16,x=12288,y=53248",
+    "filename": "Subset1_Test_16,x=12288,y=53248.png",
+    "query": "Find the location of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains tightly packed, irregular and partially fused glands with focal cribriform architecture, minimal intervening stroma, intraluminal secretions, and lining cells showing nuclear enlargement with conspicuous nucleoli—marked to illustrate architectural crowding and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_15,x=24576,y=22528",
+    "filename": "Subset1_Test_15,x=24576,y=22528.png",
+    "query": "Which part of the image shows the tumor? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area contains tightly packed epithelial cells arranged in fused, ill-defined glands and cords with scant lumina, set in fibrous stroma; nuclei appear enlarged with conspicuous nucleoli, and the architecture contrasts with the adjacent more circumscribed glandular structures, hence marked."
+  },
+  {
+    "id": "Subset1_Test_1,x=30720,y=51200",
+    "filename": "Subset1_Test_1,x=30720,y=51200.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region demonstrates tightly packed, irregularly contoured glands with variable luminal sizes and focal cribriform clustering, lined by crowded epithelial cells with enlarged nuclei and conspicuous nucleoli, with minimal intervening stroma; marked for its complex architecture and increased cellular density."
+  },
+  {
+    "id": "Subset1_Test_13,x=38912,y=32768",
+    "filename": "Subset1_Test_13,x=38912,y=32768.png",
+    "query": "Can you outline the tumor region in this image? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows a dense fibromuscular band containing a nerve fascicle, with adjacent crowded epithelial cells arranged in irregular cords and small poorly formed lumina, marked to illustrate architectural distortion and intimate relation of glands to a neurovascular structure."
+  },
+  {
+    "id": "Subset1_Test_15,x=26624,y=18432",
+    "filename": "Subset1_Test_15,x=26624,y=18432.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows closely packed, irregular glandular and cord-like structures with attenuated lumina, scant intervening stroma, and cells displaying enlarged nuclei with conspicuous nucleoli; it is marked for its crowded architecture and variable gland formation compared with surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_14,x=10240,y=55296",
+    "filename": "Subset1_Test_14,x=10240,y=55296.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted area shows tightly packed, irregularly contoured glands and small solid nests with scant luminal spaces, embedded in desmoplastic stroma; cells display enlarged nuclei and prominent nucleoli, with ill-defined borders and a haphazard arrangement."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=55296",
+    "filename": "Subset1_Test_1,x=34816,y=55296.png",
+    "query": "Indicate where the cancerous tissue is located. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains tightly packed, irregularly contoured microglands with slit-like lumina and minimal intervening stroma, composed of basophilic epithelial cells showing nuclear crowding; it is marked to emphasize the increased cellular density and complex glandular architecture relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_12,x=26624,y=75776",
+    "filename": "Subset1_Test_12,x=26624,y=75776.png",
+    "query": "Find the location of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows dense eosinophilic fibromuscular stroma with increased collagen, scattered spindle stromal cells, small vessels, and patchy lymphoplasmacytic infiltrates, adjacent to but distinct from nearby glands, marked to emphasize stromal remodeling and inflammation at the interface."
+  },
+  {
+    "id": "Subset1_Test_1,x=24576,y=47104",
+    "filename": "Subset1_Test_1,x=24576,y=47104.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows closely packed, irregularly contoured glands with variable luminal spaces, lined by hyperchromatic enlarged epithelial cells and scant intervening stroma; areas of gland fusion and budding, with luminal eosinophilic secretions and focal stromal reaction, warranting attention to the altered architecture."
+  },
+  {
+    "id": "Subset1_Test_13,x=20480,y=26624",
+    "filename": "Subset1_Test_13,x=20480,y=26624.png",
+    "query": "Point out the region that appears malignant. Explain the features of the malignant tissue.",
+    "explanation": "In the highlighted region, crowded irregular glands and cords intermixed with fibromuscular stroma display scant or ill-formed lumina, enlarged nuclei with conspicuous nucleoli, and focal cribriform-like spaces, warranting attention for architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_1,x=36864,y=24576",
+    "filename": "Subset1_Test_1,x=36864,y=24576.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "Highlighted region contains numerous variably sized, angulated and partially fused glands and cords within desmoplastic stroma, with attenuated lumina and crowded epithelial cells showing enlarged hyperchromatic nuclei, marked to illustrate a disorganized glandular pattern departing from adjacent more organized acini."
+  },
+  {
+    "id": "Subset1_Test_13,x=30720,y=49152",
+    "filename": "Subset1_Test_13,x=30720,y=49152.png",
+    "query": "Detect and label the tumor region in the image. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area contains crowded, irregularly contoured and partially fused glands with lumina of variable caliber, forming cribriform-like spaces and small solid nests, with epithelial cells showing nuclear enlargement and conspicuous nucleoli, set within fibromyxoid stroma—features likely marked for architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_1,x=36864,y=61440",
+    "filename": "Subset1_Test_1,x=36864,y=61440.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows tightly packed, irregular microacinar structures with poorly defined lumina, lined by enlarged cells with hyperchromatic nuclei and occasional prominent nucleoli, set within desmoplastic stroma, prompting annotation for its crowded, infiltrative-appearing glandular pattern."
+  },
+  {
+    "id": "Subset1_Test_13,x=30720,y=28672",
+    "filename": "Subset1_Test_13,x=30720,y=28672.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows an irregularly contoured luminal space with jagged epithelial borders, surrounded by tightly packed, variably sized glands exhibiting enlarged nuclei with conspicuous nucleoli, and containing eosinophilic granular debris and sloughed cells, marking a focus of architectural and cytologic alteration."
+  },
+  {
+    "id": "Subset1_Test_13,x=36864,y=26624",
+    "filename": "Subset1_Test_13,x=36864,y=26624.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows densely crowded, variably sized glands with irregular outlines and attenuated lumina embedded in fibromuscular stroma, featuring enlarged hyperchromatic nuclei with occasional nucleoli and luminal secretions, marked for architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_1,x=30720,y=55296",
+    "filename": "Subset1_Test_1,x=30720,y=55296.png",
+    "query": "Draw the boundaries of the malignant tissue. Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted band shows tightly packed, irregular glandular profiles with basophilic epithelium, small lumina, nuclear crowding and hyperchromasia within scant stroma, contrasting with adjacent more solid epithelial areas; marked to emphasize this distinct architectural and cytologic pattern."
+  },
+  {
+    "id": "Subset1_Test_10,x=12288,y=45056",
+    "filename": "Subset1_Test_10,x=12288,y=45056.png",
+    "query": "Show the area that contains cancerous tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region contains crowded, irregular, and partially fused glands with angulated contours and attenuated lumina within fibromuscular stroma; epithelial cells exhibit enlarged nuclei with occasional nucleoli, marking this area for its disordered glandular architecture."
+  },
+  {
+    "id": "Subset1_Test_1,x=32768,y=18432",
+    "filename": "Subset1_Test_1,x=32768,y=18432.png",
+    "query": "Point out the region that appears malignant. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows densely collagenized, hypercellular stroma with fascicles of spindle cells and scattered lymphocytes, containing few, angulated and compressed small glands with attenuated lumina, marked to emphasize stromal reaction and architectural distortion compared with the adjacent more gland-rich tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=24576",
+    "filename": "Subset1_Test_1,x=34816,y=24576.png",
+    "query": "Draw the boundaries of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows a compact, basophilic cellular area with reduced glandular lumina, forming irregular nests and cords within fibrous stroma, with nuclear crowding and occasional small luminal spaces, marked to illustrate altered architecture compared with surrounding more well-formed acini."
+  },
+  {
+    "id": "Subset1_Test_14,x=18432,y=65536",
+    "filename": "Subset1_Test_14,x=18432,y=65536.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows irregular, variably sized glands with angulated contours and focal fusion, forming cribriform-like lumina with pale secretions; epithelial nuclei are crowded, and the surrounding stroma is more collagenized, differentiating it from adjacent, rounder and more evenly spaced glands."
+  },
+  {
+    "id": "Subset1_Test_1,x=30720,y=14336",
+    "filename": "Subset1_Test_1,x=30720,y=14336.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands with variable lumina, lined by epithelial cells with enlarged nuclei and prominent nucleoli, set in desmoplastic stroma; it is marked to demonstrate disrupted gland architecture and an infiltrative arrangement relative to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_13,x=24576,y=30720",
+    "filename": "Subset1_Test_13,x=24576,y=30720.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region contains closely packed, irregular glandular structures with partial luminal formation and cribriform-like bridging, lined by crowded epithelial cells showing enlarged nuclei with conspicuous nucleoli, set within scant stroma; marked to indicate architectural complexity and cellular crowding compared with surrounding areas."
+  },
+  {
+    "id": "Subset1_Test_12,x=18432,y=73728",
+    "filename": "Subset1_Test_12,x=18432,y=73728.png",
+    "query": "Point out the region that appears malignant. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region contains crowded, irregularly contoured prostatic glands with variable luminal caliber, occasional cribriform areas and mucinous secretions, lined by cells with enlarged hyperchromatic nuclei and minimal cytoplasm, set within fibrotic stroma showing focal gland fusion and architectural disarray."
+  },
+  {
+    "id": "Subset1_Test_1,x=28672,y=51200",
+    "filename": "Subset1_Test_1,x=28672,y=51200.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "Within the highlighted region, there are crowded, angulated glands and small nests, with irregular luminal contours, scant intervening stroma, and lining cells showing nuclear enlargement and hyperchromasia; occasional cribriform bridges and eosinophilic intraluminal secretions are present, prompting attention to this architectural complexity."
+  },
+  {
+    "id": "Subset1_Test_13,x=10240,y=32768",
+    "filename": "Subset1_Test_13,x=10240,y=32768.png",
+    "query": "Point out the region that appears malignant. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows tightly packed, irregular small acinar units and fused nests with poorly defined lumina, composed of crowded cells with round nuclei and mild nucleolar prominence within fibromuscular stroma, marked for architectural distortion, glandular fusion, and increased cellular density compared to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_15,x=24576,y=38912",
+    "filename": "Subset1_Test_15,x=24576,y=38912.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "Marked area contains irregular, angulated microglands and scattered cords embedded in fibrotic stroma, showing small lumina and nuclear enlargement with conspicuous nucleoli, contrasting with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=32768,y=53248",
+    "filename": "Subset1_Test_1,x=32768,y=53248.png",
+    "query": "Find the location of the malignant tissue. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows densely packed, irregularly contoured glands with variable lumina and cribriform-like bridges, lined by crowded epithelial cells with enlarged hyperchromatic nuclei, set within fibrous stroma adjacent to a cleft-like space."
+  },
+  {
+    "id": "Subset1_Test_15,x=28672,y=30720",
+    "filename": "Subset1_Test_15,x=28672,y=30720.png",
+    "query": "Find the location of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed, irregular small glands with attenuated lumina and scant intervening stroma, composed of basophilic cells exhibiting nuclear crowding and hyperchromasia, contrasting with the surrounding fibromuscular tissue, thus marked for increased cellularity and altered glandular architecture."
+  },
+  {
+    "id": "Subset1_Test_13,x=28672,y=20480",
+    "filename": "Subset1_Test_13,x=28672,y=20480.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows confluent cribriform to solid nests of epithelial cells with minimal intervening stroma, round nuclei with conspicuous nucleoli, and scattered punched-out luminal spaces, set within fibromuscular stroma—features marked for their dense, architecturally complex glandular pattern."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=65536",
+    "filename": "Subset1_Test_1,x=34816,y=65536.png",
+    "query": "Can you outline the tumor region in this image? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows crowded, irregularly contoured glands of varying calibers with luminal secretions, lined by tightly packed epithelial cells with enlarged nuclei and visible nucleoli, and separated by scant fibromyxoid stroma with areas of gland fusion and cribriforming, explaining the mark for notable architectural change."
+  },
+  {
+    "id": "Subset1_Test_12,x=24576,y=75776",
+    "filename": "Subset1_Test_12,x=24576,y=75776.png",
+    "query": "Can you locate the region suspected to be cancerous? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed, irregular small glands with scant lumina and variable angulation, lined by enlarged hyperchromatic cells with conspicuous nucleoli, embedded within fibromuscular stroma."
+  },
+  {
+    "id": "Subset1_Test_13,x=16384,y=24576",
+    "filename": "Subset1_Test_13,x=16384,y=24576.png",
+    "query": "Can you locate the region suspected to be cancerous? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region shows a densely cellular area of irregular solid nests and cords of small epithelial cells with round nuclei and scant cytoplasm, minimal glandular lumina, and delicate fibrous stroma, contrasting with the surrounding fibromuscular tissue and residual acini."
+  },
+  {
+    "id": "Subset1_Test_15,x=26624,y=10240",
+    "filename": "Subset1_Test_15,x=26624,y=10240.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area contains tightly packed, irregular and mostly poorly formed glandular units and cords within fibromuscular stroma, with enlarged nuclei and visible nucleoli and scant lumina, marked for its crowded architecture and cytologic atypia relative to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_12,x=12288,y=65536",
+    "filename": "Subset1_Test_12,x=12288,y=65536.png",
+    "query": "Which part of the image shows the tumor? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed, irregular glands with variable luminal shapes, focal gland fusion, scant intervening stroma, and epithelial cells exhibiting nuclear enlargement, hyperchromasia, and visible nucleoli, marked to underscore architectural crowding and cytologic abnormalities in this area."
+  },
+  {
+    "id": "Subset1_Test_13,x=24576,y=32768",
+    "filename": "Subset1_Test_13,x=24576,y=32768.png",
+    "query": "Indicate where the cancerous tissue is located. Explain the features of the malignant tissue.",
+    "explanation": "Highlighted area contains crowded, angulated and partially fused glands with small lumina and occasional cribriform-like spaces, embedded in fibromuscular stroma, showing nuclear crowding and hyperchromasia; marked to emphasize the irregular glandular architecture and increased cellularity compared with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_14,x=12288,y=53248",
+    "filename": "Subset1_Test_14,x=12288,y=53248.png",
+    "query": "Show the area that contains cancerous tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted area contains tightly packed, irregular acini with branching and focal cribriforming, scant intervening stroma, and epithelial cells showing enlarged nuclei, prominent nucleoli, and luminal secretions, marked for its architectural complexity and cytologic changes."
+  },
+  {
+    "id": "Subset1_Test_12,x=12288,y=69632",
+    "filename": "Subset1_Test_12,x=12288,y=69632.png",
+    "query": "Can you locate the region suspected to be cancerous? Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region contains tightly packed, irregular and variably sized glands with angulated contours and occasional fusion, showing crowded nuclei with prominent nucleoli and scant luminal secretions, embedded in desmoplastic fibromuscular stroma, marked for architectural distortion and increased cellularity."
+  },
+  {
+    "id": "Subset1_Test_13,x=30720,y=32768",
+    "filename": "Subset1_Test_13,x=30720,y=32768.png",
+    "query": "Find the location of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area displays crowded, irregular and partly fused glands with focal cribriforming and poorly formed lumina, lined by stratified cells with enlarged hyperchromatic nuclei and occasional nucleoli, embedded in fibromuscular stroma with focal intraluminal secretions."
+  },
+  {
+    "id": "Subset1_Test_1,x=32768,y=51200",
+    "filename": "Subset1_Test_1,x=32768,y=51200.png",
+    "query": "Indicate where the cancerous tissue is located. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows tightly packed, irregular glands with variable luminal spaces, scant intervening stroma, and epithelial cells exhibiting enlarged, hyperchromatic nuclei with visible nucleoli, marked for its crowded architecture and focal intraluminal eosinophilic secretions."
+  },
+  {
+    "id": "Subset1_Test_1,x=26624,y=45056",
+    "filename": "Subset1_Test_1,x=26624,y=45056.png",
+    "query": "Which part of the image shows the tumor? Provide key visual clues of the malignant region.",
+    "explanation": "The highlighted region contains crowded, irregularly contoured microglands with small or slit-like lumina, epithelial cells showing increased nuclear density and nucleoli, and intervening fibrous stroma, marked to document architectural distortion, gland fusion, and cytologic atypia relative to surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_1,x=28672,y=65536",
+    "filename": "Subset1_Test_1,x=28672,y=65536.png",
+    "query": "Indicate where the cancerous tissue is located. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows crowded, irregularly contoured glands with focal fusion and attenuated lumina, lined by cells with enlarged hyperchromatic nuclei and occasional nucleoli, set in fibromyxoid stroma with increased cellularity; it is marked for its higher glandular density, architectural distortion, and cytologic atypia relative to surroundings."
+  },
+  {
+    "id": "Subset1_Test_1,x=28672,y=59392",
+    "filename": "Subset1_Test_1,x=28672,y=59392.png",
+    "query": "Can you locate the region suspected to be cancerous? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows crowded, irregular, angulated glands with minimal intervening stroma, some poorly formed lumina, enlarged hyperchromatic nuclei with occasional nucleoli, and eosinophilic intraluminal secretions/corpora amylacea, marked for its architectural distortion and cytologic atypia compared with adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_11,x=8192,y=18432",
+    "filename": "Subset1_Test_11,x=8192,y=18432.png",
+    "query": "Find the location of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows crowded, irregularly fused glandular structures and cords with attenuated lumina, embedded in desmoplastic stroma, featuring enlarged hyperchromatic nuclei with prominent nucleoli and occasional mitotic figures, distinguishing it from adjacent more organized glands."
+  },
+  {
+    "id": "Subset1_Test_1,x=32768,y=14336",
+    "filename": "Subset1_Test_1,x=32768,y=14336.png",
+    "query": "Can you locate the region suspected to be cancerous? Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area demonstrates crowded, irregularly contoured glands with focal cribriforming, luminal secretions, and lining cells with enlarged, hyperchromatic nuclei and conspicuous nucleoli, with minimal intervening stroma, marked for its distinctive architectural crowding and cytologic changes."
+  },
+  {
+    "id": "Subset1_Test_1,x=34816,y=18432",
+    "filename": "Subset1_Test_1,x=34816,y=18432.png",
+    "query": "Can you outline the tumor region in this image? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted area shows tightly packed, irregularly contoured prostatic glands with focal gland fusion and variable luminal caliber, embedded in fibromyxoid stroma, with epithelial cells displaying enlarged hyperchromatic nuclei and prominent nucleoli, features marked to illustrate architectural crowding and cytologic atypia relative to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_12,x=28672,y=71680",
+    "filename": "Subset1_Test_12,x=28672,y=71680.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region contains crowded, angulated and focally fused small glands with scant irregular lumina in desmoplastic fibromuscular stroma, lined by cells exhibiting nuclear enlargement, hyperchromasia, and conspicuous nucleoli, marked to demonstrate infiltrative-appearing glandular architecture with notable cytologic changes."
+  },
+  {
+    "id": "Subset1_Test_15,x=28672,y=28672",
+    "filename": "Subset1_Test_15,x=28672,y=28672.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted band shows densely packed, irregular and angulated small glands with poorly formed lumina within fibromuscular stroma, minimal intervening space, and increased nuclear crowding with visible nucleoli, contrasting with the more uniform and evenly spaced glandular architecture of the surrounding tissue."
+  },
+  {
+    "id": "Subset1_Test_16,x=32768,y=12288",
+    "filename": "Subset1_Test_16,x=32768,y=12288.png",
+    "query": "Draw the boundaries of the malignant tissue. Explain the features of the malignant tissue.",
+    "explanation": "Highlighted region shows a crowded proliferation of irregular, variably sized glands with scant intervening stroma, focal glandular fusion and cribriforming, luminal eosinophilic secretions, and epithelial cells with enlarged hyperchromatic nuclei and occasional nucleoli."
+  },
+  {
+    "id": "Subset1_Test_13,x=22528,y=32768",
+    "filename": "Subset1_Test_13,x=22528,y=32768.png",
+    "query": "Detect and label the tumor region in the image. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows crowded, irregularly fused glands and cords with scant luminal spaces, set within collagenous fibromuscular stroma, and lined by cells with enlarged nuclei and prominent nucleoli, likely marked for architectural distortion and cytologic atypia relative to adjacent, more organized acini."
+  },
+  {
+    "id": "Subset1_Test_13,x=43008,y=30720",
+    "filename": "Subset1_Test_13,x=43008,y=30720.png",
+    "query": "Indicate where the cancerous tissue is located. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows a dense eosinophilic fibromuscular stromal band with spindle nuclei, functioning as a septum that sharply separates adjacent cellular sheets, marked for its collagenized texture, linear orientation, and clear interface with the surrounding parenchyma."
+  },
+  {
+    "id": "Subset1_Test_1,x=36864,y=49152",
+    "filename": "Subset1_Test_1,x=36864,y=49152.png",
+    "query": "Find the location of the malignant tissue. Give a brief rationale for why this area is suspicious.",
+    "explanation": "The highlighted region shows crowded, irregular and partially fused glands with variable luminal spaces and intraluminal secretions, embedded in scant stroma; lining cells have enlarged, hyperchromatic nuclei with occasional nucleoli, marking notable architectural and cytologic features for review."
+  },
+  {
+    "id": "Subset1_Test_10,x=12288,y=49152",
+    "filename": "Subset1_Test_10,x=12288,y=49152.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed, angulated and focally fused glandular profiles within desmoplastic stroma containing interspersed lymphocytes, with nuclear enlargement and prominent nucleoli and occasional luminal secretions, marked for architectural distortion and increased cellularity."
+  },
+  {
+    "id": "Subset1_Test_12,x=8192,y=65536",
+    "filename": "Subset1_Test_12,x=8192,y=65536.png",
+    "query": "Can you locate the region suspected to be cancerous? Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region contains tightly packed, irregular, variably sized glands with focal luminal bridging/cribriform-like spaces, scant intervening stroma, and epithelial nuclei enlarged with occasional prominent nucleoli, features marked for their increased architectural complexity and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_15,x=22528,y=16384",
+    "filename": "Subset1_Test_15,x=22528,y=16384.png",
+    "query": "Indicate where the cancerous tissue is located. Give a brief rationale for why this area is suspicious.",
+    "explanation": "Marked area shows crowded, irregularly contoured glands with partial fusion, small luminal spaces, and scant intervening stroma; epithelial cells display nuclear enlargement, darker chromatin, and occasional nucleoli, with mild desmoplastic reaction, highlighting distinctive glandular architecture for review."
+  },
+  {
+    "id": "Subset1_Test_15,x=24576,y=12288",
+    "filename": "Subset1_Test_15,x=24576,y=12288.png",
+    "query": "Draw the boundaries of the malignant tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted area shows irregularly arranged small glands and solid nests with poorly formed or absent lumina, cells with enlarged nuclei and prominent nucleoli, embedded in fibrous stroma with scattered luminal secretions; marked due to crowded architecture and reduced glandular formation compared to adjacent tissue."
+  },
+  {
+    "id": "Subset1_Test_13,x=43008,y=28672",
+    "filename": "Subset1_Test_13,x=43008,y=28672.png",
+    "query": "Detect and label the tumor region in the image. Explain the features of the malignant tissue.",
+    "explanation": "The highlighted region shows tightly packed epithelial cells arranged in solid nests with minimal luminal formation, increased nuclear density, and an irregular stromal interface adjacent to a thick fibromuscular band, marked to illustrate architectural crowding and its boundary with surrounding connective tissue."
+  },
+  {
+    "id": "Subset1_Test_14,x=12288,y=55296",
+    "filename": "Subset1_Test_14,x=12288,y=55296.png",
+    "query": "Show the area that contains cancerous tissue. Summarize observable signs in the tumor area.",
+    "explanation": "The highlighted region shows closely packed, irregular glands with attenuated luminal spaces, lined by crowded epithelial cells with hyperchromatic nuclei and scant cytoplasm, within desmoplastic stroma; it is marked for architectural distortion and gland fusion relative to adjacent, larger, more well-formed glands."
+  },
+  {
+    "id": "Subset1_Test_12,x=24576,y=71680",
+    "filename": "Subset1_Test_12,x=24576,y=71680.png",
+    "query": "Point out the region that appears malignant. Output the segmentation mask and give a brief explanation.",
+    "explanation": "The highlighted region shows closely packed, irregular glands with focal cribriform lumina, reduced stromal spacing, and epithelial cells displaying enlarged, hyperchromatic nuclei with conspicuous nucleoli and occasional intraluminal secretions, marked to note architectural distortion and cytologic atypia."
+  },
+  {
+    "id": "Subset1_Test_13,x=20480,y=30720",
+    "filename": "Subset1_Test_13,x=20480,y=30720.png",
+    "query": "Can you outline the tumor region in this image? Explain the features of the malignant tissue.",
+    "explanation": "The highlighted area shows closely packed cords and small nests of epithelial cells with abundant pale cytoplasm, enlarged round nuclei and visible nucleoli, forming poorly defined or absent glandular lumina within desmoplastic stroma, marked to illustrate a less organized growth pattern compared with adjacent discrete glands."
+  }
+]
